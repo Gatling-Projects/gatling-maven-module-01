@@ -1,8 +1,6 @@
 # gatling-maven-module-01
 
-======================================================
-Gatling Maven Project for Module 01 in Gatling Academy
-======================================================
+<h2>Gatling Maven Project for Module 01 in Gatling Academy</h2>
 
 A simple showcase of a Maven project using the Gatling plugin for Maven. Refer to the plugin documentation
 [on the Gatling website](https://gatling.io/docs/current/extensions/maven_plugin/) for usage.
